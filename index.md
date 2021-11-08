@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Marcel-Tronco/marcel-tronco.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a provisional showroom for some of the code on github.com/marcel-tronco.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Library Shelf react add in
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marcel-Tronco/marcel-tronco.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For example you can see a library shelf programmed as a react app that's easy to put wherever you want on your website. It uses the Zotero Web Library and its WebApi as a backend and fetches data from there. To find out more look in the repo [here](https://github.com/marcel-tronco/zotero_library_react_addin)!
